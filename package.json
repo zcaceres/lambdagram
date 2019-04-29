@@ -1,0 +1,31 @@
+{
+  "name": "instagrambda",
+  "version": "1.0.0",
+  "description": "A lambda for building image datasets from Instagram",
+  "main": "lambda.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zcaceres/instagrambda.git"
+  },
+  "keywords": [
+    "serverless",
+    "lambda",
+    "deep",
+    "learning",
+    "data",
+    "analysis",
+    "machine",
+    "learning",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Zach Caceres (@zachcaceres)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zcaceres/instagrambda/issues"
+  },
+  "homepage": "https://github.com/zcaceres/instagrambda#readme"
+}
