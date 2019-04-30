@@ -1,4 +1,4 @@
-# Lambdagram
+# 📸Lambdagram
 ## A Tiny Cloud Service to Build Image Datasets with Instagram
 
 ### How to Use:
