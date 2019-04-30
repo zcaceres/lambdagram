@@ -13,8 +13,8 @@
   "keywords": [
     "serverless",
     "lambda",
-    "deep",
-    "learning",
+    "deep learning",
+    "AI",
     "data",
     "analysis",
     "machine",
@@ -27,5 +27,11 @@
   "bugs": {
     "url": "https://github.com/zcaceres/instagrambda/issues"
   },
-  "homepage": "https://github.com/zcaceres/instagrambda#readme"
+  "homepage": "https://github.com/zcaceres/instagrambda#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "crypto": "^1.0.1",
+    "jsdom": "^15.0.0",
+    "vm2": "^3.8.0"
+  }
 }
